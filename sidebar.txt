@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kvp:home|Door43 (kvp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kvp|d43-kvp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kvp/archive/master.zip|d43-kvp.zip]]
+
+**Recent Changes**
+{{changes>ns = kvp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kvp|Ethnologue data]]
+
